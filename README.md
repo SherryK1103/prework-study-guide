@@ -2,7 +2,7 @@
 
 A study guide for course pre-work
 
-# <Sherry Kneitz's Pre-Work Study Guide Web Page>
+# Sherry Kneitz's Pre-Work Study Guide Web Page
 
 ## Description
 
