@@ -8,7 +8,7 @@ myImage.onclick = () => {
     myImage.setAttribute("src", "images/firefox-icon.jpg");
   }
 };
-let myButton = document.querySelector("button");
+let myButton = document.querySelector(".test");
 let myHeading = document.querySelector("h1");
 function setUserName() {
     const myName = prompt("Please enter your name.");
